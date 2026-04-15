@@ -1,2 +1,2 @@
 second file in master
-f1 in master
+f2 in master
