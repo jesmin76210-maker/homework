@@ -1,2 +1,4 @@
 second file in master
 f2 in master
+second file in branch1
+f1 in branch1
